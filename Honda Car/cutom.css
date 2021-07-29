@@ -1,0 +1,60 @@
+/* using google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+ body
+ {
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+ }  
+
+/* ............. Header part custom css ......... */
+.background-color
+{
+    background-color: #264653;
+    height: 1000ppx;
+} 
+.white-color
+{
+    color: #FFFFFF;
+    
+    font-weight: 609px;
+} 
+
+.button-color
+{
+    background-color: #E76F51;
+    
+    color: #FFFFFF;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 20px;
+    
+}
+/* ......... Header part cutom css end ............ */
+/* ......... bike design cutom css .......................... */
+.orange-color
+{
+    color: #ED927B;
+}
+.grayscale
+{
+    filter: grayscale(100%);
+}
+/* ........... bike design cutom  css end............. */
+/* ................. Happy clients cutom css start  .................... */
+.card-image
+{
+    margin: 20px;
+}
+.fa-star.filled
+{
+    color:#E77C40;
+    
+}
+.color-name
+{
+    color: #23A6F0;
+}
+/*..................... happy clients cutom css end............... */
+}
+
